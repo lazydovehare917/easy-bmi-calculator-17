@@ -1,2 +1,9 @@
-# easy-bmi-calculator-17
-A simple bmi calculator project
+# Bmi Calculator
+
+A simple bmi calculator project.
+\n
+## Getting Started
+
+```bash
+python bmi.py
+```
